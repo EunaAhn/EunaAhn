@@ -10,6 +10,8 @@
 - Spring, SpringBoot, MySQL, MariaDB
 - Machine Learing (Sklearn, TensorFlow)
 
+### Skills
+
 <div align=center>
 
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -24,5 +26,6 @@
 
 </div>
 
+### Status
 ![gitstatus](https://github-readme-stats.vercel.app/api?username=EunaAhn&theme=blue-green)
 
