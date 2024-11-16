@@ -1,12 +1,11 @@
 ### Frontend Developer
-- Frontend Developer, (+ studying fullstack)
 - IT Engineering Major, Sookmyung Women's University
+- 2024 EY ADC-DA Intern
 - 2023 WISET Research Team Support Program for Female Graduate Students in Engineering (Advanced Course)
 - 2022 KUSITMS(Korean University Students IT & Management Society) Developer Team
 
 ### Interest
 - React, JavaScript, HTML, CSS (Web Front-end)
-- Swift, UIKit, SwiftUI (iOS)
 - Spring, SpringBoot, MySQL, MariaDB
 - Machine Learing (Sklearn, TensorFlow)
 
@@ -14,7 +13,6 @@
 
 <div align=center>
 
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
