@@ -5,6 +5,8 @@
 - 2022 KUSITMS(Korean University Students IT & Management Society) Developer Team
 
 ### Skills
+- React
+- Spring Boot
 - Alteryx
 - MySQL, MSSQL
 - Machine Learing (Sklearn, TensorFlow)
