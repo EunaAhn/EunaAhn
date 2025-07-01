@@ -1,5 +1,5 @@
 ### DA(Data Analyst)
-- 2025 EY ADC-DA 
+- 2025 EY ADC-DA Staff
 - 2024 EY ADC-DA Intern
 - 2023 WISET 
 - 2022 KUSITMS(Korean University Students IT & Management Society) Developer Team
