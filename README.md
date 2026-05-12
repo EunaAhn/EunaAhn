@@ -11,6 +11,3 @@
 
 </div>
 
-### Status
-![gitstatus](https://github-readme-stats.vercel.app/api?username=EunaAhn&theme=blue-green)
-
