@@ -5,7 +5,6 @@
 ### Skills
 - React
 - Spring Boot
-- Alteryx
 - MySQL, MSSQL
 - Python
 - Machine Learing (Sklearn, TensorFlow)
